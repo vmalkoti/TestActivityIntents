@@ -11,6 +11,6 @@ public class ThirdActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_third);
 
-        Log.d("DEBUG_MAIN_ACTIVITY", "Hashcode of activity object =" + this.hashCode());
+        Log.d("DEBUG_THIRD_ACTIVITY", "Hashcode of activity object =" + this.hashCode());
     }
 }
